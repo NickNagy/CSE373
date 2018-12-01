@@ -1,5 +1,4 @@
-# CSE373
-Data Structures and Algorithms
+# Data Structures and Algorithms
 
 HW2: Heap with three child nodes
 
