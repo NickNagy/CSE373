@@ -3,10 +3,6 @@ Data Structures and Algorithms
 
 HW2: Heap with three child nodes
 
-HW3: 
-
-HW4:
-
-HW5:
+HW4 & 5: Graphs
 
 HW6: Sorting Algorithms
